@@ -1,2 +1,2 @@
-# project2
-add css to a website
+# Interactive Portfolio
+A portfolio website enhanced with CSS styling that includes a home page showcasing a project, a resume tab with my professional details, and an education tab featuring a table of classes taken. Built with HTML and CSS, it demonstrates layout design, styling, and organization of multiple pages into a cohesive user experience. See personal-landing-page for the starting point and interactive-portfolio-js for the final interactive version.
